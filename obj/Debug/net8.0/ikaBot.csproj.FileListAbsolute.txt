@@ -48,6 +48,7 @@ C:\Users\HIGORV\source\repos\ikaBot\ikaBot\obj\Debug\net8.0\ikaBot.GeneratedMSBu
 C:\Users\HIGORV\source\repos\ikaBot\ikaBot\obj\Debug\net8.0\ikaBot.AssemblyInfoInputs.cache
 C:\Users\HIGORV\source\repos\ikaBot\ikaBot\obj\Debug\net8.0\ikaBot.AssemblyInfo.cs
 C:\Users\HIGORV\source\repos\ikaBot\ikaBot\obj\Debug\net8.0\ikaBot.csproj.CoreCompileInputs.cache
+C:\Users\HIGORV\source\repos\ikaBot\ikaBot\obj\Debug\net8.0\ikaBot.sourcelink.json
 C:\Users\HIGORV\source\repos\ikaBot\ikaBot\obj\Debug\net8.0\ikaBot.csproj.Up2Date
 C:\Users\HIGORV\source\repos\ikaBot\ikaBot\obj\Debug\net8.0\ikaBot.dll
 C:\Users\HIGORV\source\repos\ikaBot\ikaBot\obj\Debug\net8.0\refint\ikaBot.dll

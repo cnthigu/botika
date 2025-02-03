@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ikaBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1511d38b64db9691a8bfb6647b44805be4d7777")]
 [assembly: System.Reflection.AssemblyProductAttribute("ikaBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ikaBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

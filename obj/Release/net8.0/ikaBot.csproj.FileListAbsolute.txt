@@ -54,3 +54,4 @@ C:\Users\HIGORV\source\repos\ikaBot\ikaBot\obj\Release\net8.0\refint\ikaBot.dll
 C:\Users\HIGORV\source\repos\ikaBot\ikaBot\obj\Release\net8.0\ikaBot.pdb
 C:\Users\HIGORV\source\repos\ikaBot\ikaBot\obj\Release\net8.0\ikaBot.genruntimeconfig.cache
 C:\Users\HIGORV\source\repos\ikaBot\ikaBot\obj\Release\net8.0\ref\ikaBot.dll
+C:\Users\HIGORV\source\repos\ikaBot\ikaBot\obj\Release\net8.0\ikaBot.sourcelink.json
